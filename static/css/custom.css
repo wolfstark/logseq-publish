@@ -1,0 +1,32 @@
+/* @import url("https://piotrsss.github.io/logseq-tools/public/bujo-css/main.css");
+@import url("https://piotrsss.github.io/logseq-tools/public/bujo-css/dark-coffee.css");
+@import url("https://piotrsss.github.io/logseq-tools/public/bujo-css/light-white.css"); */
+/* @import url("https://cdn.jsdelivr.net/gh/PiotrSss/logseq-clean-themes/bg.css"); */
+/* @import url("https://cdn.jsdelivr.net/gh/DubininDmitry/Harmony-theme-for-Logseq/custom.css"); */
+
+/* @import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-laurel-theme/custom.css"); */
+@import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/custom.css");
+
+
+/* @import url('https://cdn.jsdelivr.net/gh/sansui233/logseq-bonofix-theme/custom.css'); */
+/* textarea {
+  line-height: 1.6 !important;
+}
+:root {
+  --ct-line-height: 1.6;
+}
+.white-theme {
+  --ct-page-background: rgb(252, 249, 245);
+  --ct-page-reference-color: #cf5659;
+  --ct-page-reference-color-hover: #c15b50;
+}
+.cp__right-sidebar .sidebar-item {
+  --ct-sidebar-item-background: rgb(252, 249, 245);
+}
+mark {
+  color: inherit;
+  background: #fef3ac;
+} */
+:root{
+   --ct-topbar-backdrop: blur(8px);
+}
